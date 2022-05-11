@@ -15,9 +15,8 @@
     "url": "git+https://github.com/tweneboah/book-keeping-app.git"
   },
   "author": "Kishan",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tweneboah/book-keeping-app/issues"
+  "license": "MIT"
+  
   },
   "homepage": "https://github.com/tweneboah/book-keeping-app#readme",
   "dependencies": {
